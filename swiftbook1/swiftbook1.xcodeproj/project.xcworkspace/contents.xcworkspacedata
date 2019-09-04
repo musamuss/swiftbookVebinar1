@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:swiftbookVebinar1.xcodeproj">
+      location = "self:swiftbook1.xcodeproj">
    </FileRef>
 </Workspace>
