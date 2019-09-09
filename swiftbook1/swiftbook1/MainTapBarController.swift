@@ -14,7 +14,7 @@ class MainTapBarController: UITabBarController {
         super.viewDidLoad()
         view.backgroundColor = .red
         
-        let photosVC = PhotosCollectionViewController(collectionViewLayout: UICollectionViewLayout())
+        let photosVC = PhotosCollectionViewController(collectionViewLayout: UICollectionViewFlowLayout())
         viewControllers = [generateNavigationController(rootViewController: photosVC, title: "Photos"),generateNavigationController(rootViewController: ViewController(), title: "Favourites")]
         
     }
