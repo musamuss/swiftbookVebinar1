@@ -15,6 +15,7 @@
 		840198E1231FF5A300F5F090 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 840198DF231FF5A300F5F090 /* LaunchScreen.storyboard */; };
 		840198ED231FF9D000F5F090 /* MainTapBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840198EC231FF9D000F5F090 /* MainTapBarController.swift */; };
 		840198EF231FFB2E00F5F090 /* PhotosCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840198EE231FFB2E00F5F090 /* PhotosCollectionViewController.swift */; };
+		84EC56AC2337C81200FBB3FC /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84EC56AB2337C81200FBB3FC /* NetworkService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		840198E2231FF5A300F5F090 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		840198EC231FF9D000F5F090 /* MainTapBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTapBarController.swift; sourceTree = "<group>"; };
 		840198EE231FFB2E00F5F090 /* PhotosCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosCollectionViewController.swift; sourceTree = "<group>"; };
+		84EC56AB2337C81200FBB3FC /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				840198D8231FF5A200F5F090 /* ViewController.swift */,
 				840198EC231FF9D000F5F090 /* MainTapBarController.swift */,
 				840198EE231FFB2E00F5F090 /* PhotosCollectionViewController.swift */,
+				84EC56AB2337C81200FBB3FC /* NetworkService.swift */,
 				840198DA231FF5A200F5F090 /* Main.storyboard */,
 				840198DD231FF5A300F5F090 /* Assets.xcassets */,
 				840198DF231FF5A300F5F090 /* LaunchScreen.storyboard */,
@@ -148,6 +151,7 @@
 				840198D9231FF5A200F5F090 /* ViewController.swift in Sources */,
 				840198D5231FF5A200F5F090 /* AppDelegate.swift in Sources */,
 				840198EF231FFB2E00F5F090 /* PhotosCollectionViewController.swift in Sources */,
+				84EC56AC2337C81200FBB3FC /* NetworkService.swift in Sources */,
 				840198D7231FF5A200F5F090 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
